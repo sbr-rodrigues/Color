@@ -15,7 +15,7 @@ HTML | CSS - Projeto estudo das cores
         <h2>Imagens do projetos</h2>
           <p>As imagens que compõem o projeto</p>
  <figure>
-   <img src="" alt="Menu Color"></a>
+   <img src="https://raw.githubusercontent.com/sbr-rodrigues/Color/refs/heads/main/Color.png" alt="Menu Color"></a>
     <figcaption>Menu cores no modo visualizado</figcaption>
       </figure>
       </body>
